@@ -1,0 +1,1 @@
+﻿Run the "walmart_sales_forecasting.ipynb" notebook to generate "xgb_tuned_log.csv". You can upload this file on Kaggle to view its score of 0.09279 Root Mean Squared Log Error: the best prediction in the competition. ![Results](https://i.imgur.com/MotfNgu.png)
