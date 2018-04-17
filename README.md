@@ -1,7 +1,7 @@
 ﻿# walmart_sales_forecasting
 ### Contents
 This repository contains a Jupyter notebook and Tableau packaged workbook, which outline my approach for the   
-"Walmart Recruiting II: Sales in Stormy Weather" contest hosted on Kaggle. The Tableau workbook contains visualizations that guide feature generation and predictive modeling in the Juptyer notebook.
+"Walmart Recruiting II: Sales in Stormy Weather" contest hosted on Kaggle. The Tableau workbook contains visualizations that guide feature generation and predictive modeling in the Juptyer notebook. This workbook can be viewed in the following link: https://public.tableau.com/profile/sean.guntvedt#!/vizhome/walmart_sales_visualization/EDA
 
 ### Description of CSV Files
 1. Download competition data from the following link and place csv files into datasets repository: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather/data
